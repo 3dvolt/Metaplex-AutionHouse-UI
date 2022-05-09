@@ -12,6 +12,10 @@ Includes:
 - CRA
 - Solana wallet adapter
 
+![alt text](https://github.com/3dvolt/Metaplex-AutionHouse-UI/blob/main/img/Screenshot%202022-05-09%20165726.png)
+
+![alt text](https://github.com/3dvolt/Metaplex-AutionHouse-UI/blob/main/img/video_demo.gif)
+
 
 ## Install package
 
@@ -25,7 +29,7 @@ Metaplex dependencies
 cd src/api
 
 yarn install
-```
+``` 
 
 ## Run
 
